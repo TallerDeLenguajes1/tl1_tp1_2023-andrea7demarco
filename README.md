@@ -14,5 +14,8 @@ es un archivo de texto que le dice a Git qué otros archivos y carpetas de un pr
 - Dentro del archivo .gitignore agrego el archivo que quiero ignorar : /ignorado.txt 
 - Subo otra vez el archivo .gitignore al repositorio
 
+# **punto 3c)**
+Veo los archivos .gitignore , README.md y tp1_1.c, para mí hace falta que estén todos estos archivos.
+
 
 
