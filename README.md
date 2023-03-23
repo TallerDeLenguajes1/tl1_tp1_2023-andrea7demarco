@@ -15,7 +15,7 @@ es un archivo de texto que le dice a Git qué otros archivos y carpetas de un pr
 - Subo otra vez el archivo .gitignore al repositorio
 
 # **punto 3c)**
-Veo los archivos .gitignore , README.md y tp1_1.c, para mí hace falta que estén todos estos archivos.
+Veo los archivos .gitignore , README.md y tp1_1.c, tp1_1.exe. Podría sacar el archivo .exe
 
 
 
