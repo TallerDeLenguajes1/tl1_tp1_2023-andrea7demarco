@@ -8,11 +8,11 @@ int main(){
     //1)
     printf("El contenido del puntero: %d\n", *punt_numero);
     //2)
-    printf("Direccion de memoria almacenada por el puntero: %d\n",punt_numero);
+    printf("Direccion de memoria almacenada por el puntero: %p\n",punt_numero);
     //3)
-    printf("direccion de memoria de la variable :%d\n",&numero);
+    printf("direccion de memoria de la variable :%p\n",&numero);
     //4)
-    printf("La direccion de memoria del puntero : %d\n",&punt_numero);
+    printf("La direccion de memoria del puntero : %p\n",&punt_numero);
     //5)
     printf("El tamanio de memoria utilizado por esa variable:%d",sizeof(numero));
     return 0;
