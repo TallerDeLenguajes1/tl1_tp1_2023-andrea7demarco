@@ -17,5 +17,10 @@ es un archivo de texto que le dice a Git qué otros archivos y carpetas de un pr
 # **punto 3c)**
 Veo los archivos .gitignore , README.md y tp1_1.c, tp1_1.exe. Podría sacar el archivo .exe y la carpeta .vscode
 
+# **punto 3g)**
+
+Son iguales porque la dirección de memoria almacenada por el puntero , accedo a través del puntero y a la dirección de memoria de la variable , accedo con & y la variable, que es su dirección de memoria. En el punto 4 obtengo  6422032 , es distinto a los anteriores porque en esos puntos me refiero a la variable, lo q contiene y su dirección a través del puntero, pero acá yo precisaba la dirección de memoria del puntero con el cuál estoy apuntando a la variable.
+ 
+
 
 
