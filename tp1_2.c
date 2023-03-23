@@ -18,12 +18,13 @@ int main(){
 int cuadrado(int numero1){
     int valor;
     valor=(numero1*numero1);
-
+    printf("direccion de la variable :%d\n",&valor);
     return valor;
 }
 
 void cuadrado2(int numero1 ,int *puntero_num1){
     *puntero_num1=(numero1*numero1);
+    printf("direccion de la variable:%d\n",puntero_num1);
 
 
 }
